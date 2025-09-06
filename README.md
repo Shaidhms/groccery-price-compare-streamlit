@@ -101,14 +101,10 @@ Add up to 6 custom grocery items using the sidebar input fields.
 ```
 grocery-price-comparison/
 │
-├── pricecomparemvp.py          # Main Streamlit application
+├── app.py                      # Main Streamlit application
 ├── requirements.txt            # Python dependencies
-├── README.md                  # Project documentation
-├── .gitignore                 # Git ignore file
-├── assets/                    # Screenshots and images
-│   └── screenshots/
-└── docs/                      # Additional documentation
-    └── api_integration.md
+├── README.md                   # Project documentation
+
 ```
 
 ## 🔧 Configuration
