@@ -33,7 +33,6 @@ A comprehensive Streamlit web application that compares grocery prices across th
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Shaidhms/groccery-price-compare-streamlit.git
-   cd grocery-price-comparison
    ```
 
 2. **Create a virtual environment** (recommended)
@@ -54,11 +53,11 @@ A comprehensive Streamlit web application that compares grocery prices across th
 
 4. **Run the application**
    ```bash
-   streamlit run pricecomparemvp.py
+   streamlit run app.py
    ```
 
 5. **Open in browser**
-   - Navigate to `http://localhost:8501`
+   - Navigate to `http://localhost:5000`
    - The app will automatically open in your default browser
 
 ## 📋 Requirements
